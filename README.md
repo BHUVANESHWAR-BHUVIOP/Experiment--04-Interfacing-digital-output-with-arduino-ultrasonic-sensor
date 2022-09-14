@@ -1,6 +1,6 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-											Roll Number : 212221240009
-											Name : BHUVANESHWAR V
+									Roll Number : 212221240009
+									Name : BHUVANESHWAR V
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
