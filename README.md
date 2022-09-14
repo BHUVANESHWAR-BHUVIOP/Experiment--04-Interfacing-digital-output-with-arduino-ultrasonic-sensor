@@ -87,7 +87,7 @@ void loop()
 }
 ```
 ### Distance vs measurement table 
-![image](table.JPG)
+![image](table.jpg)
 
 			Average error = sum/ number of readings 
 ### RESULTS
